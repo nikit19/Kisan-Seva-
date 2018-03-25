@@ -1,0 +1,39 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="recycler_view_row_left_right_margin">8dp</dimen>
+    <dimen name="recycler_view_row_top_bottom_margin">4dp</dimen>
+    <dimen name="recycler_view_row_padding">8dp</dimen>
+    <dimen name="message_font_size">24sp</dimen>
+    <dimen name="message_padding">24dp</dimen>
+    <dimen name="message_width">240dp</dimen>
+    <dimen name="clear_image_button_width">48dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- row_tweet_search_suggest -->
+    <dimen name="suggest_query_font_size">20sp</dimen>
+    <dimen name="suggest_query_padding">24dp</dimen>
+
+    <!-- fragment_tweet_harvesting -->
+    <dimen name="tweet_harvesting_margin">8dp</dimen>
+    <dimen name="tweets_harvested_count">40sp</dimen>
+
+    <!-- row_tweet_search -->
+    <dimen name="profile_pic_side">48dp</dimen>
+
+    <!-- fragment_tweet_posting -->
+    <dimen name="tweet_post_edit_text_font_size">16sp</dimen>
+    <dimen name="tweet_post_button_text_font_size">16sp</dimen>
+    <dimen name="tweet_max_characters_font_size">16sp</dimen>
+    <dimen name="tweet_post_media_container_margin_bottom">4dp</dimen>
+    <dimen name="tweet_post_media_container_padding">8dp</dimen>
+    <dimen name="tweet_posting_image_button_side">40dp</dimen>
+    <dimen name="location_on_image_view_side">24dp</dimen>
+    <dimen name="location_text_font_size">16sp</dimen>
+    <dimen name="location_container_margin">8dp</dimen>
+
+    <!-- item_post_tweet_image -->
+    <dimen name="tweet_media_height">280dp</dimen>
+    <dimen name="tweet_media_remove_side">24dp</dimen>
+    <dimen name="tweet_media_remove_margin">8dp</dimen>
+</resources>
